@@ -1,8 +1,8 @@
 .PrivacyPolicyTitle {
-  color: aliceblue;
+  color: rgb(0, 0, 0);
 }
 .PrivacyPolocyText {
-  color: aliceblue;
+  color: rgb(0, 0, 0);
 }
 .goToAppPrivacyPolicy {
   position: relative;
@@ -11,5 +11,5 @@
 }
 
 .goToAppPrivacyPolicyBtn {
-  background-color: aliceblue;
+  background-color: rgb(255, 255, 255);
 }
