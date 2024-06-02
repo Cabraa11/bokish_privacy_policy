@@ -1,0 +1,10 @@
+{
+  "name": "bookish_privacy_policy",
+  "version": "1.0.0",
+  "description": "privacy policy bokish page",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
